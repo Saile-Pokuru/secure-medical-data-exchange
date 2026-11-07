@@ -1,0 +1,7 @@
+MEDICAL SECURITY TEST FILE
+Patient: Demo Patient
+Record Type: Synthetic medical data
+
+WARNING: suspicious_payload detected for classroom demonstration.
+This sample contains the word malware only to trigger the demo threat-analysis path.
+Secure exchange must be blocked and the file quarantined.

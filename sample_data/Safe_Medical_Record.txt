@@ -1,0 +1,5 @@
+PATIENT ID: MR-2048
+PATIENT: Demo Patient
+DIAGNOSIS: Cardiac follow-up
+DOCTOR: Dr. A. Rao
+NOTES: Routine synthetic medical record for cryptography demonstration.
